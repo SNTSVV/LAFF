@@ -1,0 +1,1211 @@
+{
+  "n/a": [
+    "n/a",
+    "nan",
+    "not collected",
+    "not provided",
+    "missing",
+    "Not applicable",
+    "not applicable",
+    "unknown",
+    "not applicable",
+    "Not applicable",
+    "Not applicable",
+    "missing",
+    "not collected",
+    "-",
+    "Not collected",
+    "Missing",
+    "not available",
+    "Not Collected",
+    "Not available",
+    "Unknown",
+    "unknown",
+    "a sexual",
+    "Not determined",
+    "unspecified",
+    "neuter",
+    "none",
+    "na",
+    "None",
+    "NONE",
+    "missing",
+    "na",
+    "not",
+    "not applicable",
+    "-",
+    "_",
+    "-",
+    "Missing",
+    "na",
+    "not applicable",
+    "Not applicable",
+    "none",
+    "missing",
+    "not applicable",
+    "unaffected",
+    "missing",
+    "not collected",
+    "unknown",
+    "not determined",
+    "not applicable",
+    "na",
+    "Not applicable",
+    "NOT REPORTED",
+    "tissue",
+    "NA",
+    "N/A",
+    "Not Applicable",
+    "null"
+  ],
+  "female": [
+    "female"
+  ],
+  "male": [
+    "male"
+  ],
+  "pooles male and female": [
+    "pooles male and female",
+    "mixed",
+    "intersex"
+  ],
+  "pooled female": [
+    "pooled female"
+  ],
+  "184-hTERT": [
+    "184-hTERT"
+  ],
+  "293T": [
+    "293T"
+  ],
+  "A375": [
+    "A375"
+  ],
+  "A549": [
+    "A549",
+    "A549 (ATCC CCL-185)",
+    "A549 cells"
+  ],
+  "AHNP": [
+    "AHNP"
+  ],
+  "ARPE-19": [
+    "ARPE-19"
+  ],
+  "BCBL1": [
+    "BCBL1"
+  ],
+  "BJ": [
+    "BJ"
+  ],
+  "BxPC-3": [
+    "BxPC-3"
+  ],
+  "CFU": [
+    "CFU"
+  ],
+  "CaCo-2": [
+    "CaCo-2",
+    "Caco-2",
+    "Caco2"
+  ],
+  "Cultured human chondrocytes": [
+    "Cultured human chondrocytes"
+  ],
+  "Epstein-Barr Virus": [
+    "Epstein-Barr Virus",
+    "Epstein-Barr Virus (EBV)-transformed"
+  ],
+  "GM12878": [
+    "GM12878"
+  ],
+  "Gleason Score": [
+    "Gleason Score"
+  ],
+  "H1": [
+    "H1"
+  ],
+  "H2122": [
+    "H2122"
+  ],
+  "H9 hESC": [
+    "H9 hESC"
+  ],
+  "HAP1": [
+    "HAP1",
+    "HAP1 cells"
+  ],
+  "HCC1954 (ATCC CRL-2338 )": [
+    "HCC1954 (ATCC CRL-2338 )",
+    "HCC1954 BL (ATCC CRL-2339 )"
+  ],
+  "HCT-116": [
+    "HCT-116",
+    "HCT116"
+  ],
+  "HEK 293": [
+    "HEK 293",
+    "HEK-293",
+    "HEK293",
+    "Hek293"
+  ],
+  "HEK 293T": [
+    "HEK 293T",
+    "HEK239T",
+    "HEK293T"
+  ],
+  "HEK 293T/17": [
+    "HEK 293T/17"
+  ],
+  "HEK293T derived": [
+    "HEK293T derived"
+  ],
+  "HEK-HT": [
+    "HEK-HT"
+  ],
+  "HEK293FT": [
+    "HEK293FT"
+  ],
+  "HL-60 (ATCC\\xc2\\xae CCL-240\\xc2\\x99)": [
+    "HL-60 (ATCC\\xc2\\xae CCL-240\\xc2\\x99)",
+    "HL60"
+  ],
+  "HPAF-II": [
+    "HPAF-II"
+  ],
+  "HT-29": [
+    "HT-29"
+  ],
+  "HUDEP-2": [
+    "HUDEP-2"
+  ],
+  "HUVEC": [
+    "HUVEC"
+  ],
+  "HeLa": [
+    "HeLa",
+    "Hela"
+  ],
+  "HepG2": [
+    "HepG2"
+  ],
+  "HepaRG": [
+    "HepaRG"
+  ],
+  "JEG-3": [
+    "JEG-3"
+  ],
+  "Jurkat": [
+    "Jurkat",
+    "JURKAT"
+  ],
+  "K-562": [
+    "K-562",
+    "K562",
+    "K-562 (ATCC\\xc2\\xae CCL-243\\xc2\\x99)"
+  ],
+  "KYSE-30": [
+    "KYSE-30"
+  ],
+  "LCL": [
+    "LCL"
+  ],
+  "LN-229": [
+    "LN-229"
+  ],
+  "LNCaP": [
+    "LNCaP"
+  ],
+  "Loucy": [
+    "Loucy"
+  ],
+  "MCF": [
+    "MCF"
+  ],
+  "MCF-7": [
+    "MCF-7",
+    "MCF7"
+  ],
+  "MCF10A": [
+    "MCF10A"
+  ],
+  "MDA-MB-231": [
+    "MDA-MB-231"
+  ],
+  "MelJuSo": [
+    "MelJuSo"
+  ],
+  "MonoMac6": [
+    "MonoMac6"
+  ],
+  "NALM6": [
+    "NALM6"
+  ],
+  "NCI-H1299": [
+    "NCI-H1299"
+  ],
+  "NCI-H1650": [
+    "NCI-H1650"
+  ],
+  "NHDF": [
+    "NHDF"
+  ],
+  "NO": [
+    "NO"
+  ],
+  "P493-5": [
+    "P493-5"
+  ],
+  "P493-6": [
+    "P493-6"
+  ],
+  "PBMC": [
+    "PBMC",
+    "Peripheral Blood Mononuclear Cells",
+    "PBMCs"
+  ],
+  "PC9": [
+    "PC9"
+  ],
+  "REH": [
+    "REH"
+  ],
+  "SET2": [
+    "SET2"
+  ],
+  "SH-SY5Y": [
+    "SH-SY5Y"
+  ],
+  "T-47D": [
+    "T-47D",
+    "T47D"
+  ],
+  "THP-1": [
+    "THP-1",
+    "THP1"
+  ],
+  "TMD8": [
+    "TMD8"
+  ],
+  "U-2 OS": [
+    "U-2 OS",
+    "U-2 OS (ATCC HTB96)",
+    "U2OS"
+  ],
+  "U251": [
+    "U251"
+  ],
+  "U87MG": [
+    "U87MG"
+  ],
+  "WA09 (H9) cell line": [
+    "WA09 (H9) cell line"
+  ],
+  "WI38": [
+    "WI38"
+  ],
+  "YES": [
+    "YES"
+  ],
+  "ZR-75-1": [
+    "ZR-75-1"
+  ],
+  "iPS": [
+    "iPS"
+  ],
+  "primary epidermal keratinocytes (ATCC\\xc2\\xae PCS-200-010\\xc2\\x99)']": [
+    "primary epidermal keratinocytes (ATCC\\xc2\\xae PCS-200-010\\xc2\\x99)']"
+  ],
+  "293TpuroGFP_dCas9": [
+    "293TpuroGFP_dCas9"
+  ],
+  "ACC_DORSAL": [
+    "ACC_DORSAL"
+  ],
+  "AML": [
+    "AML"
+  ],
+  "Acute Myeloid Leukemia Cells": [
+    "Acute Myeloid Leukemia Cells"
+  ],
+  "Adenocarcinoma": [
+    "Adenocarcinoma"
+  ],
+  "Antigen Presenting Cell": [
+    "Antigen Presenting Cell"
+  ],
+  "B Cell": [
+    "B Cell",
+    "B cell",
+    "B-cell",
+    "b cell",
+    "B lymphocyte",
+    "B-Lymphocyte",
+    "B-lymphocyte",
+    "Total B cells"
+  ],
+  "BFU-E": [
+    "BFU-E"
+  ],
+  "Breast carcinoma": [
+    "Breast carcinoma"
+  ],
+  "CD3+ T cells": [
+    "CD3+ T cells"
+  ],
+  "CD34+": [
+    "CD34+"
+  ],
+  "CD34+CD38+": [
+    "CD34+CD38+"
+  ],
+  "CD34+CD38-": [
+    "CD34+CD38-"
+  ],
+  "CD4 T cell": [
+    "CD4 T cell",
+    "CD4 T cells"
+  ],
+  "CD4+": [
+    "CD4+",
+    "acivated CD4+ T-cells"
+  ],
+  "Cancer cells from esophageal": [
+    "Cancer cells from esophageal"
+  ],
+  "Cell line": [
+    "Cell line",
+    "cell line"
+  ],
+  "Cerebellum": [
+    "Cerebellum"
+  ],
+  "Differentiating neural cell": [
+    "Differentiating neural cell"
+  ],
+  "Epithelial": [
+    "Epithelial",
+    "EPITHELIAL",
+    "epithelial",
+    "epithelium"
+  ],
+  "ESC": [
+    "ESC",
+    "Embryonic Stem Cell"
+  ],
+  "Entorhinal cortex": [
+    "Entorhinal cortex"
+  ],
+  "Epstein-Barr virus transformed B-Lymphocyte": [
+    "Epstein-Barr virus transformed B-Lymphocyte"
+  ],
+  "Fibroblast": [
+    "Fibroblast",
+    "fibroblast",
+    "dermal fibroblasts (Fib)"
+  ],
+  "Granule Cell of Human Dentate Gyrus": [
+    "Granule Cell of Human Dentate Gyrus"
+  ],
+  "HBsAg+ B cells": [
+    "HBsAg+ B cells"
+  ],
+  "HLA-DR+ Plasma cells": [
+    "HLA-DR+ Plasma cells"
+  ],
+  "Hepatic Progenitor Cells": [
+    "Hepatic Progenitor Cells"
+  ],
+  "Human Embryonic Kidney": [
+    "Human Embryonic Kidney"
+  ],
+  "Immature neuron": [
+    "Immature neuron"
+  ],
+  "Islets of Langerhans": [
+    "Islets of Langerhans"
+  ],
+  "KBM-7-derived haploid cells": [
+    "KBM-7-derived haploid cells"
+  ],
+  "LIN-CD34+CD38+HSPC": [
+    "LIN-CD34+CD38+HSPC"
+  ],
+  "LIN-CD34+CD38-HSPC": [
+    "LIN-CD34+CD38-HSPC"
+  ],
+  "Mucosal Associated Invariant T-cell": [
+    "Mucosal Associated Invariant T-cell"
+  ],
+  "Myoblasts": [
+    "Myoblasts"
+  ],
+  "Nasal epithelium": [
+    "Nasal epithelium"
+  ],
+  "Neural precusor cell": [
+    "Neural precusor cell"
+  ],
+  "Neuron": [
+    "Neuron"
+  ],
+  "Plasma cells": [
+    "Plasma cells"
+  ],
+  "Platelet": [
+    "Platelet"
+  ],
+  "Sarcoma": [
+    "Sarcoma"
+  ],
+  "Squamous": [
+    "Squamous"
+  ],
+  "T cell": [
+    "T cell",
+    "T-Cell",
+    "T-cell (CD3+)",
+    "Tcells",
+    "T lymphocyte"
+  ],
+  "adherent": [
+    "adherent"
+  ],
+  "body/tail": [
+    "body/tail"
+  ],
+  "cd34+": [
+    "cd34+"
+  ],
+  "early rosettes (Ros-E) derived from hiPSCs": [
+    "early rosettes (Ros-E) derived from hiPSCs"
+  ],
+  "embryoid body (EB) derived from hiPSCs": [
+    "embryoid body (EB) derived from hiPSCs"
+  ],
+  "embryonic_kidney": [
+    "embryonic_kidney"
+  ],
+  "hESCs": [
+    "hESCs"
+  ],
+  "head/uncinate": [
+    "head/uncinate"
+  ],
+  "human induced pluripotent stem cells (hiPSCs)": [
+    "human induced pluripotent stem cells (hiPSCs)"
+  ],
+  "iPSC": [
+    "iPSC"
+  ],
+  "inflitrating T cells": [
+    "inflitrating T cells"
+  ],
+  "late rosettes (Ros-L) derived from hiPSCs": [
+    "late rosettes (Ros-L) derived from hiPSCs"
+  ],
+  "lymphocyte": [
+    "lymphocyte",
+    "lyphocyte"
+  ],
+  "lymphoma": [
+    "lymphoma"
+  ],
+  "macrophage": [
+    "macrophage"
+  ],
+  "melanoma": [
+    "melanoma"
+  ],
+  "monocyte": [
+    "monocyte",
+    "monocytes"
+  ],
+  "mononuclear cell": [
+    "mononuclear cell"
+  ],
+  "neural progenitor cells (NPCs) derived from hiPSCs": [
+    "neural progenitor cells (NPCs) derived from hiPSCs"
+  ],
+  "normal": [
+    "normal"
+  ],
+  "peripheral blood mononuclear cell": [
+    "peripheral blood mononuclear cell",
+    "peripheral blood mononuclear cells"
+  ],
+  "red blood cells": [
+    "red blood cells"
+  ],
+  "sinle cell": [
+    "sinle cell"
+  ],
+  "stroma": [
+    "stroma"
+  ],
+  "10534": [
+    "10534"
+  ],
+  "AD": [
+    "AD"
+  ],
+  "ALS": [
+    "ALS"
+  ],
+  "ASD": [
+    "ASD"
+  ],
+  "Acute Myeloid Leukemia": [
+    "Acute Myeloid Leukemia"
+  ],
+  "Acute Promyelocytic Leukemia": [
+    "Acute Promyelocytic Leukemia"
+  ],
+  "Breast Cancer": [
+    "Breast Cancer",
+    "Breast cancer",
+    "breast cancer"
+  ],
+  "cancer": [
+    "cancer",
+    "CANCER"
+  ],
+  "CLL": [
+    "CLL"
+  ],
+  "CMML1/Myelofibrosis overlap": [
+    "CMML1/Myelofibrosis overlap"
+  ],
+  "COPD": [
+    "COPD"
+  ],
+  "CTCL": [
+    "CTCL"
+  ],
+  "Celiac disease": [
+    "Celiac disease"
+  ],
+  "Chronic Myeloid Leukemia": [
+    "Chronic Myeloid Leukemia"
+  ],
+  "Chronic lymphocytic leukemia": [
+    "Chronic lymphocytic leukemia"
+  ],
+  "Colorectal cancer": [
+    "Colorectal cancer",
+    "colorectal_cancer"
+  ],
+  "Control": [
+    "Control",
+    "control"
+  ],
+  "Cutaneous Melanoma": [
+    "Cutaneous Melanoma"
+  ],
+  "Cystic fibrosis": [
+    "Cystic fibrosis"
+  ],
+  "DLBCL": [
+    "DLBCL"
+  ],
+  "DOID:6078": [
+    "DOID:6078"
+  ],
+  "EMPD": [
+    "EMPD"
+  ],
+  "Endometrioid endometrial carcinoma": [
+    "Endometrioid endometrial carcinoma"
+  ],
+  "Esophageal Adenocarcinoma": [
+    "Esophageal Adenocarcinoma"
+  ],
+  "Esophageal Squamous Cell Carcinoma": [
+    "Esophageal Squamous Cell Carcinoma"
+  ],
+  "Esophageal squamous cancer": [
+    "Esophageal squamous cancer"
+  ],
+  "Follicular Lymphoma": [
+    "Follicular Lymphoma"
+  ],
+  "GIST": [
+    "GIST"
+  ],
+  "Glioblastoma": [
+    "Glioblastoma"
+  ],
+  "HCV infection": [
+    "HCV infection"
+  ],
+  "HIV Non Neutralizing": [
+    "HIV Non Neutralizing"
+  ],
+  "HIV-1": [
+    "HIV-1"
+  ],
+  "HNSCC": [
+    "HNSCC"
+  ],
+  "Healthy": [
+    "Healthy",
+    "healthy",
+    "healthy control"
+  ],
+  "Hepatitis B infection": [
+    "Hepatitis B infection"
+  ],
+  "Hepatocellular Carcinoma": [
+    "Hepatocellular Carcinoma",
+    "hepatocellular carcinoma"
+  ],
+  "IPMN": [
+    "IPMN"
+  ],
+  "Lung Adenocarcinoma": [
+    "Lung Adenocarcinoma",
+    "Lung adenocarcinoma",
+    "lung_adenocarcinoma"
+  ],
+  "MCN": [
+    "MCN"
+  ],
+  "MDS": [
+    "MDS"
+  ],
+  "MPN": [
+    "MPN"
+  ],
+  "Melanoma": [
+    "Melanoma",
+    "melanoma"
+  ],
+  "Myelofibrosis": [
+    "Myelofibrosis",
+    "myelofibrosis"
+  ],
+  "NASH": [
+    "NASH"
+  ],
+  "NC": [
+    "NC"
+  ],
+  "NSCLC": [
+    "NSCLC",
+    "nsclc"
+  ],
+  "Normal": [
+    "Normal",
+    "normal",
+    "normal development"
+  ],
+  "OSCC": [
+    "OSCC"
+  ],
+  "Prostate Cancer": [
+    "Prostate Cancer",
+    "prostate cancer"
+  ],
+  "RRMS": [
+    "RRMS"
+  ],
+  "SKML": [
+    "SKML"
+  ],
+  "Schizo": [
+    "Schizo"
+  ],
+  "Serous cystic neoplasm": [
+    "Serous cystic neoplasm"
+  ],
+  "Type 2 Diabetes": [
+    "Type 2 Diabetes"
+  ],
+  "WT": [
+    "WT"
+  ],
+  "acute T cell leukemia": [
+    "acute T cell leukemia"
+  ],
+  "acute monocytic leukemia": [
+    "acute monocytic leukemia"
+  ],
+  "adenocarcinoma": [
+    "adenocarcinoma"
+  ],
+  "ankylosing spondylitis": [
+    "ankylosing spondylitis"
+  ],
+  "breast_carcinoma": [
+    "breast_carcinoma"
+  ],
+  "carcinoma": [
+    "carcinoma",
+    "carcinoma (adenocarcinoma)"
+  ],
+  "cerebral palsy": [
+    "cerebral palsy"
+  ],
+  "cervical squamous cell carcinoma": [
+    "cervical squamous cell carcinoma"
+  ],
+  "colon cancer": [
+    "colon cancer"
+  ],
+  "colorectal carcinoma": [
+    "colorectal carcinoma"
+  ],
+  "food allergy": [
+    "food allergy"
+  ],
+  "gastric cancer": [
+    "gastric cancer",
+    "gastric_cancer"
+  ],
+  "human immunodeficiency virus infectious disease": [
+    "human immunodeficiency virus infectious disease"
+  ],
+  "liver cancer": [
+    "liver cancer"
+  ],
+  "lung cancer": [
+    "lung cancer"
+  ],
+  "multiple myeloma": [
+    "multiple myeloma"
+  ],
+  "multiple sclerosis": [
+    "multiple sclerosis"
+  ],
+  "osteosarcoma": [
+    "osteosarcoma"
+  ],
+  "pancreatic cancer": [
+    "pancreatic cancer"
+  ],
+  "rectal cancer": [
+    "rectal cancer"
+  ],
+  "sALS": [
+    "sALS"
+  ],
+  "scleroderma": [
+    "scleroderma"
+  ],
+  "AA": [
+    "AA"
+  ],
+  "ATI": [
+    "ATI"
+  ],
+  "Admixed": [
+    "Admixed"
+  ],
+  "African": [
+    "African"
+  ],
+  "African American": [
+    "African American",
+    "African_american"
+  ],
+  "Arab": [
+    "Arab"
+  ],
+  "Asian": [
+    "Asian"
+  ],
+  "Aymara": [
+    "Aymara"
+  ],
+  "BENGALI": [
+    "BENGALI"
+  ],
+  "BIDAYUH": [
+    "BIDAYUH"
+  ],
+  "British": [
+    "British"
+  ],
+  "Caucasian": [
+    "Caucasian",
+    "CAUC",
+    "CAUCASIAN",
+    "CAUCASOIDS",
+    "Caucasoid",
+    "Caucassian",
+    "Causasian",
+    "caucasian"
+  ],
+  "Chinese": [
+    "Chinese",
+    "CHINESE",
+    "China",
+    "Chinese Han",
+    "HAN",
+    "Han",
+    "Han Chinese",
+    "chinese"
+  ],
+  "Taiwanese": [
+    "Taiwanese"
+  ],
+  "Hong Kongers": [
+    "Hong Kongers"
+  ],
+  "European": [
+    "European",
+    "EUROPEAN"
+  ],
+  "East Asian": [
+    "East Asian"
+  ],
+  "East Indian": [
+    "East Indian"
+  ],
+  "FILIPINO": [
+    "FILIPINO"
+  ],
+  "GUJARATI INDIAN": [
+    "GUJARATI INDIAN"
+  ],
+  "German": [
+    "German"
+  ],
+  "Hispanic": [
+    "Hispanic",
+    "HISPANIC OR LATINO",
+    "Hispanic or Latino"
+  ],
+  "HMONG": [
+    "HMONG"
+  ],
+  "INDIAN": [
+    "INDIAN",
+    "Indian"
+  ],
+  "Italian": [
+    "Italian"
+  ],
+  "Japanese": [
+    "Japanese",
+    "JAPANESE",
+    "JAVANESE"
+  ],
+  "JIAMAO": [
+    "JIAMAO"
+  ],
+  "JINUO": [
+    "JINUO"
+  ],
+  "Korean": [
+    "Korean",
+    "KOREANS"
+  ],
+  "LAMAHOLOT": [
+    "LAMAHOLOT"
+  ],
+  "MAASAI": [
+    "MAASAI"
+  ],
+  "MALAY": [
+    "MALAY"
+  ],
+  "MANGGARAI": [
+    "MANGGARAI"
+  ],
+  "Mongoloid": [
+    "Mongoloid",
+    "MONGOLOID FEATURES"
+  ],
+  "Maori/Pacific Island": [
+    "Maori/Pacific Island"
+  ],
+  "Mestizo": [
+    "Mestizo"
+  ],
+  "Mexican": [
+    "Mexican"
+  ],
+  "Black": [
+    "Black",
+    "NEGRITO",
+    "black"
+  ],
+  "Non-Hispanic": [
+    "Non-Hispanic",
+    "NOT HISPANIC OR LATINO",
+    "Not Hispanic or Latino"
+  ],
+  "PAKISTANI": [
+    "PAKISTANI"
+  ],
+  "PROTO-AUSTROLOIDS": [
+    "PROTO-AUSTROLOIDS"
+  ],
+  "PROTO-MALAY": [
+    "PROTO-MALAY"
+  ],
+  "Philippines": [
+    "Philippines"
+  ],
+  "RYUKYUAN": [
+    "RYUKYUAN"
+  ],
+  "Russian": [
+    "Russian"
+  ],
+  "SUNDA": [
+    "SUNDA"
+  ],
+  "Singaporean": [
+    "Singaporean"
+  ],
+  "South African of mixed ancestry": [
+    "South African of mixed ancestry"
+  ],
+  "South Asian": [
+    "South Asian",
+    "South-Asian"
+  ],
+  "South East Asian": [
+    "South East Asian"
+  ],
+  "UTAH/MORMON": [
+    "UTAH/MORMON",
+    "Utah/Mormon"
+  ],
+  "UYGHUR": [
+    "UYGHUR"
+  ],
+  "VIETNAMESE": [
+    "VIETNAMESE"
+  ],
+  "WA": [
+    "WA"
+  ],
+  "West Eurasian": [
+    "West Eurasian"
+  ],
+  "White": [
+    "White",
+    "white"
+  ],
+  "Yoruba": [
+    "Yoruba",
+    "YORUBA"
+  ],
+  "ZHUANG": [
+    "ZHUANG"
+  ],
+  "kazakh": [
+    "kazakh"
+  ],
+  "netherlands": [
+    "netherlands"
+  ],
+  "xanthoderm": [
+    "xanthoderm"
+  ],
+  "Blood": [
+    "Blood",
+    "BLOOD",
+    "blood"
+  ],
+  "Bone Marrow": [
+    "Bone Marrow",
+    "Bone marrow",
+    "bone marrow",
+    "bone"
+  ],
+  "Brain": [
+    "Brain",
+    "brain"
+  ],
+  "Breast": [
+    "Breast",
+    "breast",
+    "breast cancer tissue"
+  ],
+  "Bronchoalveolar lavage (BAL)": [
+    "Bronchoalveolar lavage (BAL)"
+  ],
+  "Cervix": [
+    "Cervix"
+  ],
+  "Colon": [
+    "Colon",
+    "colon"
+  ],
+  "FFPE": [
+    "FFPE",
+    "Fresh Frozen Prostate"
+  ],
+  "Gametes": [
+    "Gametes"
+  ],
+  "Gastrointestinal tract": [
+    "Gastrointestinal tract"
+  ],
+  "HEK293T cell line": [
+    "HEK293T cell line"
+  ],
+  "Human Hippocampus": [
+    "Human Hippocampus"
+  ],
+  "Human esophageal": [
+    "Human esophageal"
+  ],
+  "Kidney": [
+    "Kidney",
+    "kidney"
+  ],
+  "Lung": [
+    "Lung",
+    "LUNG",
+    "lung"
+  ],
+  "Liver": [
+    "Liver",
+    "liver"
+  ],
+  "Lymph Node": [
+    "Lymph Node"
+  ],
+  "Lymphoblastoid cell line (LCL)": [
+    "Lymphoblastoid cell line (LCL)"
+  ],
+  "Lymphoid": [
+    "Lymphoid"
+  ],
+  "Pancreas": [
+    "Pancreas",
+    "pancreas"
+  ],
+  "Pancreatic Ductal Adenocarcinoma": [
+    "Pancreatic Ductal Adenocarcinoma"
+  ],
+  "Peripheral Blood": [
+    "Peripheral Blood",
+    "Peripheral blood",
+    "peripheral blood",
+    "peripherial blood"
+  ],
+  "Peripheral blood mononuclear cell": [
+    "Peripheral blood mononuclear cell"
+  ],
+  "Prostate": [
+    "Prostate",
+    "prostate"
+  ],
+  "Skin": [
+    "Skin",
+    "SKIN FIBROBLASTS",
+    "skin"
+  ],
+  "Serum": [
+    "Serum"
+  ],
+  "Single Cell, hESC Cell line": [
+    "Single Cell, hESC Cell line"
+  ],
+  "Skeletal Muscle": [
+    "Skeletal Muscle"
+  ],
+  "Sputum": [
+    "Sputum"
+  ],
+  "Stomach": [
+    "Stomach"
+  ],
+  "Stool": [
+    "Stool",
+    "stool",
+    "stool_fungi"
+  ],
+  "Thyroid": [
+    "Thyroid",
+    "thyroid"
+  ],
+  "Tumor": [
+    "Tumor",
+    "Tumor, DLBCL",
+    "tumor",
+    "tumor tissue from patient with non-small cell lung cancer"
+  ],
+  "Uterus": [
+    "Uterus"
+  ],
+  "Whole blood": [
+    "Whole blood",
+    "whole blood"
+  ],
+  "cell line": [
+    "cell line"
+  ],
+  "cerebrospinal fluid": [
+    "cerebrospinal fluid"
+  ],
+  "cervical cancer": [
+    "cervical cancer"
+  ],
+  "cervix": [
+    "cervix"
+  ],
+  "embryonic kidney": [
+    "embryonic kidney",
+    "embryonic_kidney",
+    "embryo"
+  ],
+  "esophagus": [
+    "esophagus"
+  ],
+  "faeces": [
+    "faeces",
+    "feces"
+  ],
+  "fecal": [
+    "fecal"
+  ],
+  "foreskin": [
+    "foreskin"
+  ],
+  "fresh tumor": [
+    "fresh tumor"
+  ],
+  "gastric biopsy": [
+    "gastric biopsy"
+  ],
+  "haematopoietic_and_lymphoid_tissue": [
+    "haematopoietic_and_lymphoid_tissue"
+  ],
+  "mammary epithelium": [
+    "mammary epithelium"
+  ],
+  "mulitple myeloma tumors": [
+    "mulitple myeloma tumors"
+  ],
+  "ovary": [
+    "ovary"
+  ],
+  "pancreatic cyst fluid": [
+    "pancreatic cyst fluid"
+  ],
+  "plasma": [
+    "plasma"
+  ],
+  "pleural effusion": [
+    "pleural effusion"
+  ],
+  "saliva": [
+    "saliva"
+  ],
+  "teeth": [
+    "teeth"
+  ],
+  "urine": [
+    "urine"
+  ],
+  "white blood cells": [
+    "white blood cells"
+  ]
+}

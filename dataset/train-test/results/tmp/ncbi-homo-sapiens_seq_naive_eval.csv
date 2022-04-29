@@ -1,0 +1,2 @@
+Algorithm,MRR,PCR,Train Time,Test time avg,Test time min,Test time max
+naive,0.5328,1.0,17227,1.0,1,1

@@ -1,0 +1,92 @@
+{
+  "dataset": {
+    "_description": "basic information of the dataset",
+    "root_path": "../../dataset/",
+    "raw_folder": "raw/",
+    "train_test_folder": "train-test/",
+    "train_ratio": 0.8,
+    "test_ratio": 0.2,
+    "train_sample": 1.0,
+    "unique_ratio": 0.1,
+    "empty_ratio": 0.8,
+    "names": [
+      "ncbi-homo-sapiens"
+    ],
+    "ncbi-homo-sapiens": {
+      "splitter": ",",
+      "field_types": {
+        "id": "text",
+        "accession": "text",
+        "submission_date": "text",
+        "sample_name": "text",
+        "sample_title": "text",
+        "sample_type": "text",
+        "bioproject_accession": "text",
+        "organism": "text",
+        "isolate": "text",
+        "age": "number",
+        "sex": "category",
+        "tissue": "category",
+        "cell_line": "category",
+        "cell_type": "category",
+        "cell_subtype": "text",
+        "culture_collection": "text",
+        "dev_stage": "text",
+        "disease": "category",
+        "disease_stage": "text",
+        "ethnicity": "category",
+        "health_state": "text",
+        "karyotype": "text",
+        "phenotype": "text",
+        "population": "text",
+        "race": "text",
+        "description": "text"
+      },
+      "excluded_targets": [
+        "sex"
+      ]
+    }
+  },
+  "logging": {
+    "_description": "Logging can take the values in {none, info, debug}",
+    "level": "info"
+  },
+  "laff_param": {
+    "filter_th": 0.7,
+    "use_local": true,
+    "use_filter": true,
+    "min_cls_num": 2,
+    "max_cls_num": 20
+  },
+  "arm_param": {
+    "minsup": 5,
+    "minconf": 0.3,
+    "numeric": false
+  },
+  "predict": {
+    "_description": "fill_type (all, partial, incremental, sample), fill_order (seq, rand), algorithm (mfm, arm, fls, naive, laff)",
+    "rounds": 10,
+    "fill_type": "all",
+    "fill_order": "rand",
+    "recommend_ratio": 0.05,
+    "algorithm": "laff"
+  },
+  "eval": {
+    "run_alg": true,
+    "run_eval": true,
+    "fill_type": [
+      "all"
+    ],
+    "fill_orders": [
+      "seq",
+      "rand"
+    ],
+    "algorithms": [
+      "mfm",
+      "arm",
+      "naive",
+      "fls",
+      "laff"
+    ]
+  }
+}

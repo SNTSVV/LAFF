@@ -1,0 +1,225 @@
+val,id,field
+female,0X,sex
+male,1X,sex
+unknown,2X,sex
+embryonic kidney,0X,tissue
+Blood,1X,tissue
+Liver,2X,tissue
+Peripheral Blood,3X,tissue
+Bone Marrow,4X,tissue
+Breast,5X,tissue
+Skin,6X,tissue
+Pancreas,7X,tissue
+Lung,8X,tissue
+Tumor,9X,tissue
+Colon,10X,tissue
+Gastrointestinal tract,11X,tissue
+pancreatic cyst fluid,12X,tissue
+PBMC,13X,tissue
+"Single Cell, hESC Cell line",14X,tissue
+Lymph Node,15X,tissue
+faeces,16X,tissue
+Nasal epithelium,17X,tissue
+mammary epithelium,18X,tissue
+Cell line,19X,tissue
+GIST,20X,tissue
+FFPE,21X,tissue
+Kidney,22X,tissue
+Melanoma,23X,tissue
+cervix,24X,tissue
+Brain,25X,tissue
+Human esophageal,26X,tissue
+Stool,27X,tissue
+cervical cancer,28X,tissue
+Sputum,29X,tissue
+unknown,30X,tissue
+LCL,31X,tissue
+Gametes,32X,tissue
+Pancreatic Ductal Adenocarcinoma,33X,tissue
+urine,34X,tissue
+plasma,35X,tissue
+Cervix,36X,tissue
+Prostate,37X,tissue
+Uterus,38X,tissue
+macrophage,39X,tissue
+Lymphoid,40X,tissue
+Normal,41X,tissue
+Breast Cancer,42X,tissue
+Peripheral blood mononuclear cell,43X,tissue
+Prostate Cancer,44X,tissue
+Serum,45X,tissue
+unknown,0X,cell_line
+HEK 293,1X,cell_line
+HepaRG,2X,cell_line
+K-562,3X,cell_line
+HEK 293T,4X,cell_line
+H1,5X,cell_line
+HCT-116,6X,cell_line
+"-7,00 MCF",7X,cell_line
+HeLa,8X,cell_line
+184-hTERT,9X,cell_line
+NO,10X,cell_line
+HepG2,11X,cell_line
+U-2 OS,12X,cell_line
+A549,13X,cell_line
+Gleason Score,14X,cell_line
+Jurkat,15X,cell_line
+MDA-MB-231,16X,cell_line
+KYSE-30,17X,cell_line
+T-47D,18X,cell_line
+MonoMac6,19X,cell_line
+NCI-H1650,20X,cell_line
+LNCaP,21X,cell_line
+P493-6,22X,cell_line
+P493-5,23X,cell_line
+THP-1,24X,cell_line
+ZR-75-1,25X,cell_line
+A375,26X,cell_line
+Epstein-Barr Virus,27X,cell_line
+Loucy,28X,cell_line
+GM12878,29X,cell_line
+HPAF-II,30X,cell_line
+HT-29,31X,cell_line
+PBMC,32X,cell_line
+U87MG,33X,cell_line
+293T,34X,cell_line
+CaCo-2,35X,cell_line
+HL-60 (ATCC\xc2\xae CCL-240\xc2\x99),36X,cell_line
+MCF10A,37X,cell_line
+SH-SY5Y,38X,cell_line
+unknown,0X,cell_type
+Hepatic Progenitor Cells,1X,cell_type
+red blood cells,2X,cell_type
+B Cell,3X,cell_type
+PBMC,4X,cell_type
+Islets of Langerhans,5X,cell_type
+cd34+,6X,cell_type
+LIN-CD34+CD38-HSPC,7X,cell_type
+Adenocarcinoma,8X,cell_type
+Epithelial,9X,cell_type
+body/tail,10X,cell_type
+ESC,11X,cell_type
+head/uncinate,12X,cell_type
+embryonic kidney,13X,cell_type
+T cell,14X,cell_type
+Nasal epithelium,15X,cell_type
+late rosettes (Ros-L) derived from hiPSCs,16X,cell_type
+mononuclear cell,17X,cell_type
+monocyte,18X,cell_type
+Fibroblast,19X,cell_type
+stroma,20X,cell_type
+peripheral blood mononuclear cell,21X,cell_type
+Cancer cells from esophageal,22X,cell_type
+embryoid body (EB) derived from hiPSCs,23X,cell_type
+lymphocyte,24X,cell_type
+Acute Myeloid Leukemia Cells,25X,cell_type
+Cell line,26X,cell_type
+CD4+,27X,cell_type
+LIN-CD34+CD38+HSPC,28X,cell_type
+hESCs,29X,cell_type
+Squamous,30X,cell_type
+HBsAg+ B cells,31X,cell_type
+early rosettes (Ros-E) derived from hiPSCs,32X,cell_type
+human induced pluripotent stem cells (hiPSCs),33X,cell_type
+Breast carcinoma,34X,cell_type
+CD4 T cell,35X,cell_type
+macrophage,36X,cell_type
+HLA-DR+ Plasma cells,37X,cell_type
+neural progenitor cells (NPCs) derived from hiPSCs,38X,cell_type
+Blood,39X,cell_type
+Breast Cancer,40X,cell_type
+HCT-116,41X,cell_type
+Melanoma,42X,cell_type
+Peripheral Blood,43X,cell_type
+Tumor,44X,cell_type
+osteosarcoma,45X,cell_type
+plasma,46X,cell_type
+unknown,0X,disease
+Normal,1X,disease
+cancer,2X,disease
+food allergy,3X,disease
+Myelofibrosis,4X,disease
+NSCLC,5X,disease
+DOID:6078,6X,disease
+Control,7X,disease
+Healthy,8X,disease
+MPN,9X,disease
+IPMN,10X,disease
+Chronic lymphocytic leukemia,11X,disease
+Acute Promyelocytic Leukemia,12X,disease
+scleroderma,13X,disease
+Acute Myeloid Leukemia,14X,disease
+OSCC,15X,disease
+Colorectal cancer,16X,disease
+Melanoma,17X,disease
+Follicular Lymphoma,18X,disease
+sALS,19X,disease
+Chronic Myeloid Leukemia,20X,disease
+Breast Cancer,21X,disease
+colorectal carcinoma,22X,disease
+lung cancer,23X,disease
+HCV infection,24X,disease
+CTCL,25X,disease
+Hepatocellular Carcinoma,26X,disease
+GIST,27X,disease
+Prostate Cancer,28X,disease
+EMPD,29X,disease
+cervical squamous cell carcinoma,30X,disease
+DLBCL,31X,disease
+MCN,32X,disease
+COPD,33X,disease
+Hepatitis B infection,34X,disease
+SKML,35X,disease
+breast_carcinoma,36X,disease
+CLL,37X,disease
+Colon,38X,disease
+acute T cell leukemia,39X,disease
+adenocarcinoma,40X,disease
+HIV Non Neutralizing,41X,disease
+Serous cystic neoplasm,42X,disease
+liver cancer,43X,disease
+HIV-1,44X,disease
+Lung Adenocarcinoma,45X,disease
+ankylosing spondylitis,46X,disease
+human immunodeficiency virus infectious disease,47X,disease
+Endometrioid endometrial carcinoma,48X,disease
+WT,49X,disease
+gastric cancer,50X,disease
+osteosarcoma,51X,disease
+Celiac disease,52X,disease
+HNSCC,53X,disease
+AML,54X,disease
+MDS,55X,disease
+Type 2 Diabetes,56X,disease
+acute monocytic leukemia,57X,disease
+Esophageal Squamous Cell Carcinoma,58X,disease
+Glioblastoma,59X,disease
+multiple myeloma,60X,disease
+ASD,61X,disease
+pancreatic cancer,62X,disease
+Lung,63X,disease
+Pancreas,64X,disease
+cervical cancer,65X,disease
+unknown,0X,ethnicity
+Caucasian,1X,ethnicity
+Non-Hispanic,2X,ethnicity
+Chinese,3X,ethnicity
+African American,4X,ethnicity
+Mestizo,5X,ethnicity
+Arab,6X,ethnicity
+netherlands,7X,ethnicity
+Korean,8X,ethnicity
+Asian,9X,ethnicity
+Hispanic,10X,ethnicity
+White,11X,ethnicity
+German,12X,ethnicity
+Black,13X,ethnicity
+East Asian,14X,ethnicity
+British,15X,ethnicity
+East Indian,16X,ethnicity
+South East Asian,17X,ethnicity
+UTAH/MORMON,18X,ethnicity
+kazakh,19X,ethnicity
+Admixed,20X,ethnicity
+VIETNAMESE,21X,ethnicity
+Yoruba,22X,ethnicity

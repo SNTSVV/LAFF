@@ -1,0 +1,262 @@
+val,id,field
+female,0X,sex
+male,1X,sex
+unknown,2X,sex
+embryonic kidney,0X,tissue
+Blood,1X,tissue
+Liver,2X,tissue
+Peripheral Blood,3X,tissue
+Bone Marrow,4X,tissue
+Breast,5X,tissue
+Pancreas,6X,tissue
+Skin,7X,tissue
+Lung,8X,tissue
+Tumor,9X,tissue
+pancreatic cyst fluid,10X,tissue
+Colon,11X,tissue
+Gastrointestinal tract,12X,tissue
+PBMC,13X,tissue
+"Single Cell, hESC Cell line",14X,tissue
+Lymph Node,15X,tissue
+cervix,16X,tissue
+Nasal epithelium,17X,tissue
+Stool,18X,tissue
+faeces,19X,tissue
+Brain,20X,tissue
+GIST,21X,tissue
+Cell line,22X,tissue
+FFPE,23X,tissue
+unknown,24X,tissue
+Pancreatic Ductal Adenocarcinoma,25X,tissue
+mammary epithelium,26X,tissue
+Uterus,27X,tissue
+Melanoma,28X,tissue
+Human esophageal,29X,tissue
+Sputum,30X,tissue
+Kidney,31X,tissue
+LCL,32X,tissue
+cervical cancer,33X,tissue
+Gametes,34X,tissue
+plasma,35X,tissue
+Prostate,36X,tissue
+macrophage,37X,tissue
+urine,38X,tissue
+Cervix,39X,tissue
+Lymphoid,40X,tissue
+saliva,41X,tissue
+Peripheral blood mononuclear cell,42X,tissue
+Normal,43X,tissue
+Breast Cancer,44X,tissue
+Serum,45X,tissue
+B Cell,46X,tissue
+Fibroblast,47X,tissue
+HNSCC,48X,tissue
+Skeletal Muscle,49X,tissue
+adenocarcinoma,50X,tissue
+Cerebellum,51X,tissue
+HEK 293,52X,tissue
+HepG2,53X,tissue
+Hepatocellular Carcinoma,54X,tissue
+Prostate Cancer,55X,tissue
+Whole blood,56X,tissue
+colorectal carcinoma,57X,tissue
+foreskin,58X,tissue
+unknown,0X,cell_line
+HEK 293,1X,cell_line
+HepaRG,2X,cell_line
+K-562,3X,cell_line
+HEK 293T,4X,cell_line
+"-7,00 MCF",5X,cell_line
+HeLa,6X,cell_line
+H1,7X,cell_line
+NO,8X,cell_line
+HepG2,9X,cell_line
+HCT-116,10X,cell_line
+Jurkat,11X,cell_line
+T-47D,12X,cell_line
+A549,13X,cell_line
+U-2 OS,14X,cell_line
+Gleason Score,15X,cell_line
+184-hTERT,16X,cell_line
+KYSE-30,17X,cell_line
+THP-1,18X,cell_line
+MDA-MB-231,19X,cell_line
+MonoMac6,20X,cell_line
+P493-5,21X,cell_line
+Epstein-Barr Virus,22X,cell_line
+P493-6,23X,cell_line
+HPAF-II,24X,cell_line
+LNCaP,25X,cell_line
+NCI-H1650,26X,cell_line
+ZR-75-1,27X,cell_line
+PBMC,28X,cell_line
+HT-29,29X,cell_line
+Loucy,30X,cell_line
+A375,31X,cell_line
+GM12878,32X,cell_line
+MCF10A,33X,cell_line
+CaCo-2,34X,cell_line
+Fibroblast,35X,cell_line
+HL-60 (ATCC\xc2\xae CCL-240\xc2\x99),36X,cell_line
+HAP1,37X,cell_line
+SH-SY5Y,38X,cell_line
+293T,39X,cell_line
+Blood,40X,cell_line
+U87MG,41X,cell_line
+WI38,42X,cell_line
+BJ,43X,cell_line
+PC9,44X,cell_line
+iPSC,45X,cell_line
+unknown,0X,cell_type
+Hepatic Progenitor Cells,1X,cell_type
+red blood cells,2X,cell_type
+B Cell,3X,cell_type
+PBMC,4X,cell_type
+Islets of Langerhans,5X,cell_type
+cd34+,6X,cell_type
+body/tail,7X,cell_type
+LIN-CD34+CD38-HSPC,8X,cell_type
+Adenocarcinoma,9X,cell_type
+head/uncinate,10X,cell_type
+Epithelial,11X,cell_type
+mononuclear cell,12X,cell_type
+ESC,13X,cell_type
+monocyte,14X,cell_type
+Nasal epithelium,15X,cell_type
+T cell,16X,cell_type
+embryonic kidney,17X,cell_type
+Squamous,18X,cell_type
+peripheral blood mononuclear cell,19X,cell_type
+Fibroblast,20X,cell_type
+Cell line,21X,cell_type
+Acute Myeloid Leukemia Cells,22X,cell_type
+Cancer cells from esophageal,23X,cell_type
+lymphocyte,24X,cell_type
+late rosettes (Ros-L) derived from hiPSCs,25X,cell_type
+neural progenitor cells (NPCs) derived from hiPSCs,26X,cell_type
+LIN-CD34+CD38+HSPC,27X,cell_type
+early rosettes (Ros-E) derived from hiPSCs,28X,cell_type
+embryoid body (EB) derived from hiPSCs,29X,cell_type
+hESCs,30X,cell_type
+human induced pluripotent stem cells (hiPSCs),31X,cell_type
+HBsAg+ B cells,32X,cell_type
+stroma,33X,cell_type
+CD4+,34X,cell_type
+macrophage,35X,cell_type
+CD4 T cell,36X,cell_type
+Breast carcinoma,37X,cell_type
+HLA-DR+ Plasma cells,38X,cell_type
+plasma,39X,cell_type
+Cerebellum,40X,cell_type
+Entorhinal cortex,41X,cell_type
+HepG2,42X,cell_type
+NSCLC,43X,cell_type
+Platelet,44X,cell_type
+Melanoma,45X,cell_type
+HAP1,46X,cell_type
+Blood,47X,cell_type
+Breast Cancer,48X,cell_type
+HCT-116,49X,cell_type
+Peripheral Blood,50X,cell_type
+Tumor,51X,cell_type
+osteosarcoma,52X,cell_type
+unknown,0X,disease
+Normal,1X,disease
+cancer,2X,disease
+food allergy,3X,disease
+Myelofibrosis,4X,disease
+NSCLC,5X,disease
+Control,6X,disease
+DOID:6078,7X,disease
+Chronic lymphocytic leukemia,8X,disease
+MPN,9X,disease
+Healthy,10X,disease
+IPMN,11X,disease
+scleroderma,12X,disease
+Acute Promyelocytic Leukemia,13X,disease
+Acute Myeloid Leukemia,14X,disease
+Chronic Myeloid Leukemia,15X,disease
+OSCC,16X,disease
+sALS,17X,disease
+Follicular Lymphoma,18X,disease
+Colorectal cancer,19X,disease
+Breast Cancer,20X,disease
+Melanoma,21X,disease
+Hepatocellular Carcinoma,22X,disease
+cervical squamous cell carcinoma,23X,disease
+HCV infection,24X,disease
+Prostate Cancer,25X,disease
+GIST,26X,disease
+MCN,27X,disease
+lung cancer,28X,disease
+acute T cell leukemia,29X,disease
+CTCL,30X,disease
+Lung Adenocarcinoma,31X,disease
+colorectal carcinoma,32X,disease
+Endometrioid endometrial carcinoma,33X,disease
+CLL,34X,disease
+COPD,35X,disease
+Hepatitis B infection,36X,disease
+SKML,37X,disease
+breast_carcinoma,38X,disease
+Serous cystic neoplasm,39X,disease
+human immunodeficiency virus infectious disease,40X,disease
+HIV Non Neutralizing,41X,disease
+Colon,42X,disease
+HIV-1,43X,disease
+Type 2 Diabetes,44X,disease
+EMPD,45X,disease
+ankylosing spondylitis,46X,disease
+DLBCL,47X,disease
+liver cancer,48X,disease
+adenocarcinoma,49X,disease
+HNSCC,50X,disease
+acute monocytic leukemia,51X,disease
+Celiac disease,52X,disease
+osteosarcoma,53X,disease
+WT,54X,disease
+ASD,55X,disease
+pancreatic cancer,56X,disease
+gastric cancer,57X,disease
+MDS,58X,disease
+AML,59X,disease
+Esophageal Squamous Cell Carcinoma,60X,disease
+Liver,61X,disease
+Thyroid,62X,disease
+Glioblastoma,63X,disease
+Pancreas,64X,disease
+Lung,65X,disease
+Tumor,66X,disease
+Breast,67X,disease
+multiple myeloma,68X,disease
+Adenocarcinoma,69X,disease
+Bone Marrow,70X,disease
+cervical cancer,71X,disease
+unknown,0X,ethnicity
+Caucasian,1X,ethnicity
+Non-Hispanic,2X,ethnicity
+Chinese,3X,ethnicity
+African American,4X,ethnicity
+Mestizo,5X,ethnicity
+Arab,6X,ethnicity
+Korean,7X,ethnicity
+Asian,8X,ethnicity
+Hispanic,9X,ethnicity
+netherlands,10X,ethnicity
+White,11X,ethnicity
+German,12X,ethnicity
+Black,13X,ethnicity
+European,14X,ethnicity
+South East Asian,15X,ethnicity
+East Asian,16X,ethnicity
+Yoruba,17X,ethnicity
+Admixed,18X,ethnicity
+British,19X,ethnicity
+UTAH/MORMON,20X,ethnicity
+East Indian,21X,ethnicity
+kazakh,22X,ethnicity
+VIETNAMESE,23X,ethnicity
+African,24X,ethnicity
+INDIAN,25X,ethnicity
+South African of mixed ancestry,26X,ethnicity
+South Asian,27X,ethnicity

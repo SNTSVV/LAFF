@@ -1,0 +1,1 @@
+[('cell_line', 'disease'), ('disease', 'cell_type'), ('disease', 'sex'), ('disease', 'ethnicity')]
