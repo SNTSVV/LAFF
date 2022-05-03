@@ -1,10 +1,10 @@
 ## Form_filling_replication
 In this replication package, we make available the different scripts needed to fully replicate the results obtained in our paper:
 
-- <a href="https://orbilu.uni.lu/retrieve/90792/97179/all-in-newMain.pdf"> A Machine Learning Approach for Automated Filling of Categorical Fields in Data Entry Forms </a> <br/>
+- <a href="https://orbilu.uni.lu/handle/10993/50909"> A Machine Learning Approach for Automated Filling of Categorical Fields in Data Entry Forms </a> <br/>
 <i>Hichem Belgacem, Xiaochen Li, Domenico Bianculli, Lionel Briand<br/>
 ACM Transactions on Software Engineering and Methodology (TOSEM) 2022 <br/>
-DOI: http://dx.doi.org/10.1145/3533021
+DOI: 10.1145/3533021
 </i>
 
 This is a mirror of the Figshare entry: https://figshare.com/s/b191fcb5ee7f3ad634bf
