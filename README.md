@@ -7,7 +7,7 @@ ACM Transactions on Software Engineering and Methodology (TOSEM) 2022 <br/>
 DOI: 10.1145/3533021
 </i>
 
-This is a mirror of the Figshare entry: https://figshare.com/s/b191fcb5ee7f3ad634bf
+This is a mirror of the Figshare entry: https://figshare.com/articles/software/LAFF-replication-package/14866167
 
 ## Learning-based Automated Form Filling "LAFF"
 
