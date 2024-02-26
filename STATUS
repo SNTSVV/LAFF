@@ -1,0 +1,7 @@
+For this replication package, we apply the three ACM badges (available, functional, reusable).
+
+Available: the digital artifact is available on Figshare https://figshare.com/articles/software/LAFF-replication-package/14866167 DOI 10.6084/m9.figshare.14866167
+	
+Functional: the artifact can be executed to get consistent, complete, and exercisable results (on the public dataset) as reported in the corresponding TOSEM full paper.
+	
+Reusable: the artifact is well documented and contains the source code and API methods for reuse and repurposing.
